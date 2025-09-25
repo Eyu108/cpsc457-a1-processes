@@ -1,0 +1,5 @@
+# CPSC 457  Assignment 1: Processes in Linux
+
+## Build
+```bash
+make      # builds a1p1 and a1p2

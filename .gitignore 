@@ -1,0 +1,11 @@
+# binaries & objects
+a1p1
+a1p2
+*.o
+*.out
+
+# misc
+*.swp
+*~
+.DS_Store
+core
